@@ -74,4 +74,4 @@ Algunos de los elementos tecnicos que manejamos son
 
 ## Logo de la empresa
 
-
+![TechnoLife_Logo](https://github.com/Walfariu/TechnoLife/blob/main/Logo/TechnoLife_Logo.jpeg?raw=true)
